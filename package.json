@@ -1,9 +1,0 @@
-{
-  "name":"anime-multiverse",
-  "version":"2.0.0",
-  "private":true,
-  "description":"Anime Multiverse - combats et Qui est-ce en multijoueur",
-  "main":"server.js",
-  "scripts":{"start":"node server.js"},
-  "dependencies":{"ws":"^8.18.3"}
-}
