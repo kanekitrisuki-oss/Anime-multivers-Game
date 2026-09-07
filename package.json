@@ -1,0 +1,13 @@
+{
+  "name": "anime-multiverse",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Anime Multiverse - GitHub Pages + serveur WebSocket Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
